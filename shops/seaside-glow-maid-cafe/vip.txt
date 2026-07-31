@@ -1,1 +1,4 @@
-ENC:XOR:FAMvMyRkWAAsNXceHDZXK2AUPRNHSgNaJEcbMgYKJAAVVSkiQRcXExw4FlYsOBUwOwRdMgYXNAFWLURVO2gCMFlGczQUTwoJMzcUDURPdlImRjIwYSkYAQ==
+# VRCN VIP List
+# Put Discord IDs or VRChat Usernames line by line
+User_VRC_1
+User_VRC_2
